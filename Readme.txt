@@ -1,4 +1,4 @@
-To run the script
+Script is written for firefox browser
 
 python test.py --username <username of the person>
 
